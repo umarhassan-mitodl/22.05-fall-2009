@@ -1,0 +1,64 @@
+{
+  "term": "Fall",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Particle Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "High Energy Physics"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering"
+    ]
+  ],
+  "legacy_uid": "52cc2d6e-da57-e1cb-01b9-19f8be0b77f6",
+  "instructors": {
+    "content": [
+      "e1fc9110-2a62-bd10-ddef-305f4df208ec"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3451a78b-fe06-8b80-dbb3-5087d9fd72a8",
+    "website": "22-05-neutron-science-and-reactor-physics-fall-2009"
+  },
+  "course_title": "Neutron Science and Reactor Physics",
+  "course_description": "This course introduces fundamental properties of the neutron. It covers reactions induced by neutrons, nuclear fission, slowing down of neutrons in infinite media, diffusion theory, the few-group approximation, point kinetics, and fission-product poisoning. It emphasizes the nuclear physics bases of reactor design and its relationship to reactor engineering problems.\n",
+  "department_numbers": [
+    "22"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22.05",
+  "course_image_thumbnail": {
+    "content": "889b677c-0fa7-43ca-c9b4-733ede0e1a0a",
+    "website": "22-05-neutron-science-and-reactor-physics-fall-2009"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "66eefd31-108b-4dd8-92dd-cb240dac0458",
+  "site_short_id": "22.05-fall-2009",
+  "site_url_path": "courses/22-05-neutron-science-and-reactor-physics-fall-2009",
+  "title": "Course Metadata"
+}
